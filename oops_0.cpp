@@ -24,7 +24,9 @@ public: // acess sepecifier is public
         }
 };
 
-// ACCESS SPECIFIER -> during inheritance lets say class1 inherit class2 so if class1 data member is PRIVATE then class2 cant acess them as well main function while in PROTECTED if class1 data member is protected then class2 can access them but they cant be acess outside the class and last PUBLIC we all know about that...
+// ACCESS SPECIFIER -> during inheritance lets say class1 inherit class2 so if class1 data member is PRIVATE then class2 cant acess them as well
+// main function while in PROTECTED if class1 data member is protected then class2 can access them but they cant be acess outside the class
+// and last PUBLIC we all know about that...
 
 
 int main(){
